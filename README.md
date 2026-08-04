@@ -71,7 +71,7 @@ A decentralized marketplace with escrow smart contracts.
 
 ## 📫 Contact
 
-- Email: your@email.com
+- Email: qhuyofficial@gmail.com
 - LinkedIn: linkedin.com/in/huy-pham-quang-594729278
 
 
